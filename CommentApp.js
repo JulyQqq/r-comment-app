@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import CommentInput from "./CommentInput";
-// import Comment from './Comment'
 import CommentList from "./CommentList";
 
 class CommentApp extends Component {
